@@ -74,5 +74,5 @@ obstacle.scale = 0.4;
 obstacle.velocityX = -7;
 obstacle.lifetime = 80;
 obstacleGroup.add(obstacle);
-}
+} 
 }
